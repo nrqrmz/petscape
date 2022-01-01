@@ -2,7 +2,11 @@
 
 Final project at Le Wagon. It is a pet sitter web app. You can search for a pet sitter, create a booking and pay for it using stripe integration.
 
-![screenshot](app/assets/images/catfamily6.jpg)
+![screenshot](app/assets/images/petscape1.png)
+![screenshot](app/assets/images/petscape2.png)
+![screenshot](app/assets/images/petscape3.png)
+![screenshot](app/assets/images/petscape4.png)
+![screenshot](app/assets/images/petscape5.png)
 
 ## Built With
 
