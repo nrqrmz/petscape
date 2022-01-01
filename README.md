@@ -18,7 +18,7 @@ Final project at Le Wagon. It is a pet sitter web app. You can search for a pet 
 ## Live Demo
 
 - [Live Demo Link](http://www.petscape.club/)
-> Seeds file include pet sitters available on June - July 2021. There are pet sitters in different cities around the world on those specefic dates.
+> Seeds file includes pet sitters available on June - July 2021. There are pet sitters in different cities around the world on those specefic dates.
 
 ## Author
 
